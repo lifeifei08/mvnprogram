@@ -10,5 +10,7 @@ public class MvnDemo {
     public static void main(String []args) {
         String []strArr = {"a", "b", "c"};
         System.out.println(StringUtils.join(strArr, '\t'));
+        System.out.println("hahahahha");
+        
     }
 }
